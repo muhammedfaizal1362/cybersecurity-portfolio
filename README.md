@@ -31,6 +31,7 @@ To develop practical skills in penetration testing, vulnerability assessment, ne
 
 ## 💻 Projects
 - BioVane – Security Contributions (Under Review)
+🌐 Portfolio Website: https://muhammedfaizal1362.github.io/cybersecurity-portfolio/
 
 ## 📚 Learning Platforms
 - TryHackMe
