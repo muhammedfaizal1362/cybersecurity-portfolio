@@ -1,5 +1,3 @@
-# cybersecurity-portfolio
-My cybersecurity journey, penetration testing labs, projects and security research.
 # 🔐 Cybersecurity Portfolio
 
 Welcome to my cybersecurity portfolio!
