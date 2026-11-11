@@ -30,9 +30,24 @@ To develop practical skills in penetration testing, vulnerability assessment, ne
 - Security analysis and remediation
 
 ## 💻 Projects
-- BioVane – Security Contributions (Under Review)
 
-🌐 Portfolio Website: https://muhammedfaizal1362.github.io/cybersecurity-portfolio/
+### 1. Mini Security Toolkit
+- Beginner-friendly Python cybersecurity project.
+- Password Strength Checker
+- Hash Generator (MD5, SHA-1, SHA-256, SHA-512)
+- IP Address Information
+- Basic TCP Port Scanner
+- Security Report Generator
+
+**GitHub:** https://github.com/muhammedfaizal1362/Mini-Security-Toolkit
+
+### 2. BioVane – Security Contributions
+- Security-related contributions submitted for review.
+
+**GitHub:** https://github.com/muhammedfaizal1362/BioVane
+
+### Portfolio Website
+https://muhammedfaizal1362.github.io/cybersecurity-portfolio/
 
 ## 📚 Learning Platforms
 - TryHackMe
