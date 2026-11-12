@@ -75,6 +75,19 @@ A Python-based secure login system built as a beginner cybersecurity project.
 ## 📚 Learning Platforms
 
 - TryHackMe
+   
+## 🏆 TryHackMe Achievements
+
+- Become a Hacker
+- Bounty Hacker
+- Pickle Rick
+- Pentesting Fundamentals
+- WiFi Fundamentals and Reconnaissance
+- Defensive Security Intro
+- The CIA Triad
+- Data Encoding
+- Security Engineer Intro
+- Advent of Cyber Prep Track
 
 ## 📈 Current Focus
 
@@ -87,4 +100,5 @@ https://muhammedfaizal1362.github.io/cybersecurity-portfolio/
 ---
 
 *Learning every day. Building practical skills. Growing as an ethical hacker.*
+
 
